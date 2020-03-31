@@ -1,8 +1,10 @@
-package com.tetraverge.greetingcardname;
+package com.tetraverge.greetingcardname.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.tetraverge.greetingcardname.R;
 
 public class MainActivity extends AppCompatActivity {
 
