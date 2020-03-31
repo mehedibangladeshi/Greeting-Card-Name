@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364564393508",
+    "firebase_url": "https://greeting-card-name.firebaseio.com",
+    "project_id": "greeting-card-name",
+    "storage_bucket": "greeting-card-name.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364564393508:android:53a584dcc11570f8eab2b1",
+        "android_client_info": {
+          "package_name": "com.tetraverge.greetingcardname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364564393508-7u4mdik2o6nlq5mpbq9b7vv9c37l544l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraverge.greetingcardname",
+            "certificate_hash": "2aaf91d8c1600183c28682dd3c14bc6c5aa462f3"
+          }
+        },
+        {
+          "client_id": "364564393508-1c821lhs8094prmkh1261uqglv6g4t4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgC20Iugok09odvLIvHEx33NkwPuz5rdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364564393508-1c821lhs8094prmkh1261uqglv6g4t4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
